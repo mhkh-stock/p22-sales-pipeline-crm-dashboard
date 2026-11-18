@@ -1,0 +1,601 @@
+{
+  "client": "CitySoft Solutions (SAMPLE)",
+  "period": "2026-01-01 to 2026-06-30",
+  "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "total_deals": 156,
+  "total_pipeline_value": 117175000,
+  "open_deals": 41,
+  "open_value": 31925000,
+  "weighted_open_pipeline": 16441250,
+  "closed_deals": 115,
+  "won_deals": 40,
+  "lost_deals": 75,
+  "win_rate": 34.78,
+  "revenue_won": 26135000,
+  "value_lost": 59115000,
+  "avg_deal_size": 751121.79,
+  "avg_won_deal_size": 653375.0,
+  "avg_cycle_won": 58.7,
+  "avg_cycle_closed": 44.6,
+  "funnel": [
+    {
+      "stage": "Lead",
+      "reached": 156,
+      "conversion_from_previous": 100.0,
+      "share_of_all_deals": 100.0
+    },
+    {
+      "stage": "Qualified",
+      "reached": 141,
+      "conversion_from_previous": 90.38,
+      "share_of_all_deals": 90.38
+    },
+    {
+      "stage": "Proposal",
+      "reached": 112,
+      "conversion_from_previous": 79.43,
+      "share_of_all_deals": 71.79
+    },
+    {
+      "stage": "Negotiation",
+      "reached": 77,
+      "conversion_from_previous": 68.75,
+      "share_of_all_deals": 49.36
+    },
+    {
+      "stage": "Won",
+      "reached": 40,
+      "conversion_from_previous": 51.95,
+      "share_of_all_deals": 25.64
+    }
+  ],
+  "biggest_leak_stage": "Won",
+  "biggest_leak_step": "Negotiation → Won",
+  "biggest_leak_rate": 51.95,
+  "stage_summary": [
+    {
+      "stage": "Lead",
+      "deals": 2,
+      "share_of_deals": 1.28,
+      "pipeline_value": 2100000,
+      "weighted_value": 210000
+    },
+    {
+      "stage": "Qualified",
+      "deals": 9,
+      "share_of_deals": 5.77,
+      "pipeline_value": 6110000,
+      "weighted_value": 1527500
+    },
+    {
+      "stage": "Proposal",
+      "deals": 18,
+      "share_of_deals": 11.54,
+      "pipeline_value": 12330000,
+      "weighted_value": 6165000
+    },
+    {
+      "stage": "Negotiation",
+      "deals": 12,
+      "share_of_deals": 7.69,
+      "pipeline_value": 11385000,
+      "weighted_value": 8538750
+    },
+    {
+      "stage": "Won",
+      "deals": 40,
+      "share_of_deals": 25.64,
+      "pipeline_value": 26135000,
+      "weighted_value": 26135000
+    },
+    {
+      "stage": "Lost",
+      "deals": 75,
+      "share_of_deals": 48.08,
+      "pipeline_value": 59115000,
+      "weighted_value": 0
+    }
+  ],
+  "reps": [
+    {
+      "deals": 29,
+      "pipeline_value": 17525000,
+      "open_deals": 5,
+      "open_value": 3445000,
+      "weighted_open": 2310000,
+      "closed": 24,
+      "won": 8,
+      "lost": 16,
+      "win_rate": 33.33,
+      "revenue_won": 5360000,
+      "value_lost": 8720000,
+      "avg_deal_size": 604310.34,
+      "avg_won_deal_size": 670000.0,
+      "avg_cycle_won": 60.8,
+      "avg_cycle_closed": 45.2,
+      "name": "Ayesha Khan"
+    },
+    {
+      "deals": 44,
+      "pipeline_value": 35425000,
+      "open_deals": 8,
+      "open_value": 7655000,
+      "weighted_open": 3790500,
+      "closed": 36,
+      "won": 12,
+      "lost": 24,
+      "win_rate": 33.33,
+      "revenue_won": 6625000,
+      "value_lost": 21145000,
+      "avg_deal_size": 805113.64,
+      "avg_won_deal_size": 552083.33,
+      "avg_cycle_won": 57.8,
+      "avg_cycle_closed": 44.5,
+      "name": "Bilal Ahmed"
+    },
+    {
+      "deals": 31,
+      "pipeline_value": 21610000,
+      "open_deals": 12,
+      "open_value": 8840000,
+      "weighted_open": 5150000,
+      "closed": 19,
+      "won": 7,
+      "lost": 12,
+      "win_rate": 36.84,
+      "revenue_won": 5155000,
+      "value_lost": 7615000,
+      "avg_deal_size": 697096.77,
+      "avg_won_deal_size": 736428.57,
+      "avg_cycle_won": 61.7,
+      "avg_cycle_closed": 42.9,
+      "name": "Sana Malik"
+    },
+    {
+      "deals": 22,
+      "pipeline_value": 18970000,
+      "open_deals": 5,
+      "open_value": 4040000,
+      "weighted_open": 1863250,
+      "closed": 17,
+      "won": 5,
+      "lost": 12,
+      "win_rate": 29.41,
+      "revenue_won": 2505000,
+      "value_lost": 12425000,
+      "avg_deal_size": 862272.73,
+      "avg_won_deal_size": 501000.0,
+      "avg_cycle_won": 56.4,
+      "avg_cycle_closed": 42.0,
+      "name": "Usman Tariq"
+    },
+    {
+      "deals": 14,
+      "pipeline_value": 10215000,
+      "open_deals": 4,
+      "open_value": 2430000,
+      "weighted_open": 711250,
+      "closed": 10,
+      "won": 3,
+      "lost": 7,
+      "win_rate": 30.0,
+      "revenue_won": 1975000,
+      "value_lost": 5810000,
+      "avg_deal_size": 729642.86,
+      "avg_won_deal_size": 658333.33,
+      "avg_cycle_won": 57.3,
+      "avg_cycle_closed": 41.9,
+      "name": "Hira Shah"
+    },
+    {
+      "deals": 16,
+      "pipeline_value": 13430000,
+      "open_deals": 7,
+      "open_value": 5515000,
+      "weighted_open": 2616250,
+      "closed": 9,
+      "won": 5,
+      "lost": 4,
+      "win_rate": 55.56,
+      "revenue_won": 4515000,
+      "value_lost": 3400000,
+      "avg_deal_size": 839375.0,
+      "avg_won_deal_size": 903000.0,
+      "avg_cycle_won": 56.2,
+      "avg_cycle_closed": 54.3,
+      "name": "Daniyal Raza"
+    }
+  ],
+  "reps_by_revenue": [
+    "Bilal Ahmed",
+    "Ayesha Khan",
+    "Sana Malik",
+    "Daniyal Raza",
+    "Usman Tariq",
+    "Hira Shah"
+  ],
+  "best_rep": "Bilal Ahmed",
+  "worst_rep": "Usman Tariq",
+  "months_summary": [
+    {
+      "deals": 5,
+      "pipeline_value": 2990000,
+      "open_deals": 0,
+      "open_value": 0,
+      "weighted_open": 0,
+      "closed": 5,
+      "won": 2,
+      "lost": 3,
+      "win_rate": 40.0,
+      "revenue_won": 645000,
+      "value_lost": 2345000,
+      "avg_deal_size": 598000.0,
+      "avg_won_deal_size": 322500.0,
+      "avg_cycle_won": 54.0,
+      "avg_cycle_closed": 46.2,
+      "name": "2026-01"
+    },
+    {
+      "deals": 14,
+      "pipeline_value": 10020000,
+      "open_deals": 0,
+      "open_value": 0,
+      "weighted_open": 0,
+      "closed": 14,
+      "won": 6,
+      "lost": 8,
+      "win_rate": 42.86,
+      "revenue_won": 4975000,
+      "value_lost": 5045000,
+      "avg_deal_size": 715714.29,
+      "avg_won_deal_size": 829166.67,
+      "avg_cycle_won": 62.8,
+      "avg_cycle_closed": 56.5,
+      "name": "2026-02"
+    },
+    {
+      "deals": 31,
+      "pipeline_value": 24040000,
+      "open_deals": 0,
+      "open_value": 0,
+      "weighted_open": 0,
+      "closed": 31,
+      "won": 14,
+      "lost": 17,
+      "win_rate": 45.16,
+      "revenue_won": 9460000,
+      "value_lost": 14580000,
+      "avg_deal_size": 775483.87,
+      "avg_won_deal_size": 675714.29,
+      "avg_cycle_won": 60.6,
+      "avg_cycle_closed": 49.7,
+      "name": "2026-03"
+    },
+    {
+      "deals": 43,
+      "pipeline_value": 30525000,
+      "open_deals": 1,
+      "open_value": 680000,
+      "weighted_open": 510000,
+      "closed": 42,
+      "won": 17,
+      "lost": 25,
+      "win_rate": 40.48,
+      "revenue_won": 10275000,
+      "value_lost": 19570000,
+      "avg_deal_size": 709883.72,
+      "avg_won_deal_size": 604411.76,
+      "avg_cycle_won": 56.9,
+      "avg_cycle_closed": 46.9,
+      "name": "2026-04"
+    },
+    {
+      "deals": 44,
+      "pipeline_value": 34540000,
+      "open_deals": 24,
+      "open_value": 19505000,
+      "weighted_open": 12428750,
+      "closed": 20,
+      "won": 1,
+      "lost": 19,
+      "win_rate": 5.0,
+      "revenue_won": 780000,
+      "value_lost": 14255000,
+      "avg_deal_size": 785000.0,
+      "avg_won_deal_size": 780000.0,
+      "avg_cycle_won": 46.0,
+      "avg_cycle_closed": 27.1,
+      "name": "2026-05"
+    },
+    {
+      "deals": 19,
+      "pipeline_value": 15060000,
+      "open_deals": 16,
+      "open_value": 11740000,
+      "weighted_open": 3502500,
+      "closed": 3,
+      "won": 0,
+      "lost": 3,
+      "win_rate": 0.0,
+      "revenue_won": 0,
+      "value_lost": 3320000,
+      "avg_deal_size": 792631.58,
+      "avg_won_deal_size": 0.0,
+      "avg_cycle_won": 0.0,
+      "avg_cycle_closed": 17.0,
+      "name": "2026-06"
+    }
+  ],
+  "products": [
+    {
+      "deals": 25,
+      "pipeline_value": 40955000,
+      "open_deals": 6,
+      "open_value": 8840000,
+      "weighted_open": 3682000,
+      "closed": 19,
+      "won": 4,
+      "lost": 15,
+      "win_rate": 21.05,
+      "revenue_won": 6960000,
+      "value_lost": 25155000,
+      "avg_deal_size": 1638200.0,
+      "avg_won_deal_size": 1740000.0,
+      "avg_cycle_won": 57.0,
+      "avg_cycle_closed": 39.6,
+      "name": "ERP Implementation"
+    },
+    {
+      "deals": 30,
+      "pipeline_value": 28835000,
+      "open_deals": 8,
+      "open_value": 8180000,
+      "weighted_open": 4918000,
+      "closed": 22,
+      "won": 7,
+      "lost": 15,
+      "win_rate": 31.82,
+      "revenue_won": 6540000,
+      "value_lost": 14115000,
+      "avg_deal_size": 961166.67,
+      "avg_won_deal_size": 934285.71,
+      "avg_cycle_won": 58.3,
+      "avg_cycle_closed": 45.2,
+      "name": "Cloud Migration"
+    },
+    {
+      "deals": 33,
+      "pipeline_value": 25335000,
+      "open_deals": 15,
+      "open_value": 11205000,
+      "weighted_open": 6042500,
+      "closed": 18,
+      "won": 7,
+      "lost": 11,
+      "win_rate": 38.89,
+      "revenue_won": 5170000,
+      "value_lost": 8960000,
+      "avg_deal_size": 767727.27,
+      "avg_won_deal_size": 738571.43,
+      "avg_cycle_won": 61.4,
+      "avg_cycle_closed": 47.3,
+      "name": "Mobile App"
+    },
+    {
+      "deals": 40,
+      "pipeline_value": 14720000,
+      "open_deals": 9,
+      "open_value": 2710000,
+      "weighted_open": 1373750,
+      "closed": 31,
+      "won": 15,
+      "lost": 16,
+      "win_rate": 48.39,
+      "revenue_won": 5395000,
+      "value_lost": 6615000,
+      "avg_deal_size": 368000.0,
+      "avg_won_deal_size": 359666.67,
+      "avg_cycle_won": 58.7,
+      "avg_cycle_closed": 43.4,
+      "name": "Website Development"
+    },
+    {
+      "deals": 28,
+      "pipeline_value": 7330000,
+      "open_deals": 3,
+      "open_value": 990000,
+      "weighted_open": 425000,
+      "closed": 25,
+      "won": 7,
+      "lost": 18,
+      "win_rate": 28.0,
+      "revenue_won": 2070000,
+      "value_lost": 4270000,
+      "avg_deal_size": 261785.71,
+      "avg_won_deal_size": 295714.29,
+      "avg_cycle_won": 57.3,
+      "avg_cycle_closed": 47.2,
+      "name": "Digital Marketing"
+    }
+  ],
+  "sources": [
+    {
+      "deals": 36,
+      "pipeline_value": 27145000,
+      "open_deals": 10,
+      "open_value": 8680000,
+      "weighted_open": 5288750,
+      "closed": 26,
+      "won": 10,
+      "lost": 16,
+      "win_rate": 38.46,
+      "revenue_won": 4055000,
+      "value_lost": 14410000,
+      "avg_deal_size": 754027.78,
+      "avg_won_deal_size": 405500.0,
+      "avg_cycle_won": 60.9,
+      "avg_cycle_closed": 43.8,
+      "name": "Referral"
+    },
+    {
+      "deals": 54,
+      "pipeline_value": 42695000,
+      "open_deals": 15,
+      "open_value": 12730000,
+      "weighted_open": 6664250,
+      "closed": 39,
+      "won": 17,
+      "lost": 22,
+      "win_rate": 43.59,
+      "revenue_won": 12285000,
+      "value_lost": 17680000,
+      "avg_deal_size": 790648.15,
+      "avg_won_deal_size": 722647.06,
+      "avg_cycle_won": 59.9,
+      "avg_cycle_closed": 47.9,
+      "name": "Website"
+    },
+    {
+      "deals": 41,
+      "pipeline_value": 28620000,
+      "open_deals": 11,
+      "open_value": 8700000,
+      "weighted_open": 3700750,
+      "closed": 30,
+      "won": 6,
+      "lost": 24,
+      "win_rate": 20.0,
+      "revenue_won": 3455000,
+      "value_lost": 16465000,
+      "avg_deal_size": 698048.78,
+      "avg_won_deal_size": 575833.33,
+      "avg_cycle_won": 54.7,
+      "avg_cycle_closed": 39.7,
+      "name": "LinkedIn"
+    },
+    {
+      "deals": 25,
+      "pipeline_value": 18715000,
+      "open_deals": 5,
+      "open_value": 1815000,
+      "weighted_open": 787500,
+      "closed": 20,
+      "won": 7,
+      "lost": 13,
+      "win_rate": 35.0,
+      "revenue_won": 6340000,
+      "value_lost": 10560000,
+      "avg_deal_size": 748600.0,
+      "avg_won_deal_size": 905714.29,
+      "avg_cycle_won": 56.0,
+      "avg_cycle_closed": 46.2,
+      "name": "Cold Outreach"
+    }
+  ],
+  "lost_reasons": [
+    {
+      "lost_reason": "Price too high",
+      "lost_deals": 19,
+      "share_of_lost": 25.33,
+      "value_lost": 11930000
+    },
+    {
+      "lost_reason": "Timing — not now",
+      "lost_deals": 16,
+      "share_of_lost": 21.33,
+      "value_lost": 13100000
+    },
+    {
+      "lost_reason": "No decision — went quiet",
+      "lost_deals": 14,
+      "share_of_lost": 18.67,
+      "value_lost": 9025000
+    },
+    {
+      "lost_reason": "Chose competitor",
+      "lost_deals": 10,
+      "share_of_lost": 13.33,
+      "value_lost": 8760000
+    },
+    {
+      "lost_reason": "Budget frozen",
+      "lost_deals": 8,
+      "share_of_lost": 10.67,
+      "value_lost": 10120000
+    },
+    {
+      "lost_reason": "Requirements changed",
+      "lost_deals": 8,
+      "share_of_lost": 10.67,
+      "value_lost": 6180000
+    }
+  ],
+  "lost_at_stage": {
+    "Lead": 13,
+    "Qualified": 20,
+    "Proposal": 17,
+    "Negotiation": 25
+  },
+  "won_by_close_month": [
+    {
+      "month": "2026-01",
+      "won": 0,
+      "revenue_won": 0
+    },
+    {
+      "month": "2026-02",
+      "won": 0,
+      "revenue_won": 0
+    },
+    {
+      "month": "2026-03",
+      "won": 2,
+      "revenue_won": 645000
+    },
+    {
+      "month": "2026-04",
+      "won": 7,
+      "revenue_won": 4620000
+    },
+    {
+      "month": "2026-05",
+      "won": 15,
+      "revenue_won": 10440000
+    },
+    {
+      "month": "2026-06",
+      "won": 16,
+      "revenue_won": 10430000
+    }
+  ],
+  "run_rate_3m": 8496666.67,
+  "forecast": [
+    {
+      "month": "2026-07",
+      "open_deals_expected": 27,
+      "open_value_expected": 20570000,
+      "forecast_weighted": 13080000
+    },
+    {
+      "month": "2026-08",
+      "open_deals_expected": 14,
+      "open_value_expected": 11355000,
+      "forecast_weighted": 3361250
+    }
+  ],
+  "july_forecast_weighted": 13080000,
+  "pipeline_coverage_x": 1.94,
+  "actions": [
+    "Fix the Negotiation → Won step first — it is the biggest leak. Only 51.95% of deals that reach Negotiation move on to Won (40 of 77). 33 deals were lost at Lead or Qualified — tighten qualification before spending on later stages.",
+    "Coach Usman Tariq first — lowest win rate among reps with 10+ closed deals (29.41%, 5 of 17 closed), against Bilal Ahmed at 33.33% with PKR 6,625,000 won. Pair them on the next five live deals and copy what the top rep does at Negotiation → Won.",
+    "Attack the top lost reason: Price too high — 19 lost deals (25.33% of all losses), PKR 11,930,000 of pipeline value. Price objections dominate late losses, so put a written price-objection script and a discount-approval rule in place before the next Negotiation.",
+    "Push the July pipeline, don't just hope for it. 27 open deals are expected to close in July 2026 worth PKR 13,080,000 weighted — against a PKR 8,496,667 monthly run-rate. Weighted open pipeline is 1.94x one month's won revenue, so July depends on closing what's already in the pipe, not on finding new leads."
+  ]
+}

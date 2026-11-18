@@ -1,0 +1,9 @@
+# P22 — Sales Pipeline / CRM Dashboard
+# Rebuildable outputs are not shipped: .db files are never committed
+# (rebuild from src/generate_data.py + src/analyze.py).
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+outputs/.recalc/

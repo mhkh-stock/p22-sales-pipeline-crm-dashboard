@@ -1,0 +1,157 @@
+deal_id,created_date,month,close_date,expected_close_date,rep,product_line,source,stage,lost_at_stage,lost_reason,deal_value_pkr,probability_pct,weighted_value_pkr,sales_cycle_days,is_closed,is_won
+DL-0001,2026-05-31,2026-05,,2026-08-03,Hira Shah,Mobile App,Referral,Proposal,,,415000,50,207500,,0,0
+DL-0002,2026-05-27,2026-05,2026-06-27,,Bilal Ahmed,Website Development,Website,Lost,Qualified,No decision — went quiet,245000,0,0,31,1,0
+DL-0003,2026-04-06,2026-04,2026-06-14,,Ayesha Khan,Cloud Migration,Website,Lost,Negotiation,No decision — went quiet,715000,0,0,69,1,0
+DL-0004,2026-04-02,2026-04,2026-05-28,,Ayesha Khan,Digital Marketing,Website,Lost,Negotiation,Price too high,365000,0,0,56,1,0
+DL-0005,2026-03-09,2026-03,2026-03-29,,Sana Malik,Digital Marketing,Website,Lost,Qualified,No decision — went quiet,365000,0,0,20,1,0
+DL-0006,2026-04-05,2026-04,2026-06-02,,Bilal Ahmed,ERP Implementation,Cold Outreach,Won,,,1430000,100,1430000,58,1,1
+DL-0007,2026-05-09,2026-05,2026-05-16,,Usman Tariq,ERP Implementation,Cold Outreach,Lost,Lead,Price too high,1070000,0,0,7,1,0
+DL-0008,2026-03-03,2026-03,2026-05-11,,Ayesha Khan,Mobile App,Website,Won,,,995000,100,995000,69,1,1
+DL-0009,2026-04-27,2026-04,,2026-07-01,Sana Malik,Mobile App,Referral,Negotiation,,,680000,75,510000,,0,0
+DL-0010,2026-05-03,2026-05,2026-05-12,,Hira Shah,Website Development,Referral,Lost,Lead,No decision — went quiet,580000,0,0,9,1,0
+DL-0011,2026-05-22,2026-05,,2026-07-23,Usman Tariq,Digital Marketing,Website,Proposal,,,320000,50,160000,,0,0
+DL-0012,2026-05-06,2026-05,2026-05-15,,Hira Shah,ERP Implementation,LinkedIn,Lost,Lead,Budget frozen,1860000,0,0,9,1,0
+DL-0013,2026-05-10,2026-05,2026-06-24,,Sana Malik,ERP Implementation,Website,Lost,Proposal,Budget frozen,1755000,0,0,45,1,0
+DL-0014,2026-04-19,2026-04,2026-05-16,,Ayesha Khan,Cloud Migration,Cold Outreach,Lost,Qualified,Requirements changed,1100000,0,0,27,1,0
+DL-0015,2026-02-19,2026-02,2026-04-21,,Bilal Ahmed,Website Development,Cold Outreach,Won,,,390000,100,390000,61,1,1
+DL-0016,2026-05-08,2026-05,2026-06-14,,Usman Tariq,Cloud Migration,Referral,Lost,Proposal,Price too high,1040000,0,0,37,1,0
+DL-0017,2026-06-10,2026-06,2026-06-23,,Sana Malik,Cloud Migration,Cold Outreach,Lost,Lead,Chose competitor,1065000,0,0,13,1,0
+DL-0018,2026-04-24,2026-04,2026-06-25,,Ayesha Khan,Mobile App,LinkedIn,Won,,,865000,100,865000,62,1,1
+DL-0019,2026-04-15,2026-04,2026-06-01,,Bilal Ahmed,ERP Implementation,Cold Outreach,Won,,,2070000,100,2070000,47,1,1
+DL-0020,2026-05-26,2026-05,,2026-07-20,Sana Malik,Mobile App,Referral,Proposal,,,500000,50,250000,,0,0
+DL-0021,2026-05-24,2026-05,,2026-07-27,Daniyal Raza,Mobile App,Website,Proposal,,,855000,50,427500,,0,0
+DL-0022,2026-01-07,2026-01,2026-03-05,,Hira Shah,Digital Marketing,LinkedIn,Won,,,360000,100,360000,57,1,1
+DL-0023,2026-06-07,2026-06,,2026-07-29,Ayesha Khan,Digital Marketing,Cold Outreach,Proposal,,,390000,50,195000,,0,0
+DL-0024,2026-04-26,2026-04,2026-05-24,,Ayesha Khan,Mobile App,LinkedIn,Lost,Qualified,Timing — not now,690000,0,0,28,1,0
+DL-0025,2026-04-27,2026-04,2026-06-22,,Daniyal Raza,Cloud Migration,Website,Lost,Negotiation,Price too high,1270000,0,0,56,1,0
+DL-0026,2026-05-25,2026-05,,2026-07-26,Daniyal Raza,Cloud Migration,Referral,Proposal,,,1175000,50,587500,,0,0
+DL-0027,2026-05-22,2026-05,,2026-07-14,Sana Malik,Mobile App,Website,Proposal,,,680000,50,340000,,0,0
+DL-0028,2026-04-10,2026-04,2026-05-31,,Bilal Ahmed,Digital Marketing,LinkedIn,Lost,Negotiation,Price too high,270000,0,0,51,1,0
+DL-0029,2026-04-28,2026-04,2026-06-12,,Hira Shah,Website Development,Website,Lost,Proposal,Chose competitor,315000,0,0,45,1,0
+DL-0030,2026-05-10,2026-05,,2026-07-17,Sana Malik,Cloud Migration,LinkedIn,Proposal,,,745000,50,372500,,0,0
+DL-0031,2026-04-10,2026-04,2026-06-02,,Daniyal Raza,Cloud Migration,Cold Outreach,Won,,,680000,100,680000,53,1,1
+DL-0032,2026-05-08,2026-05,2026-05-17,,Ayesha Khan,Website Development,LinkedIn,Lost,Lead,No decision — went quiet,480000,0,0,9,1,0
+DL-0033,2026-01-23,2026-01,2026-03-15,,Bilal Ahmed,Website Development,Cold Outreach,Won,,,285000,100,285000,51,1,1
+DL-0034,2026-06-12,2026-06,,2026-08-12,Bilal Ahmed,Digital Marketing,Cold Outreach,Qualified,,,280000,25,70000,,0,0
+DL-0035,2026-04-22,2026-04,2026-06-08,,Usman Tariq,Website Development,LinkedIn,Won,,,555000,100,555000,47,1,1
+DL-0036,2026-02-14,2026-02,2026-04-07,,Bilal Ahmed,Digital Marketing,Website,Won,,,370000,100,370000,52,1,1
+DL-0037,2026-02-15,2026-02,2026-04-13,,Hira Shah,Website Development,Referral,Won,,,460000,100,460000,57,1,1
+DL-0038,2026-03-10,2026-03,2026-03-21,,Sana Malik,Digital Marketing,Referral,Lost,Lead,No decision — went quiet,280000,0,0,11,1,0
+DL-0039,2026-06-14,2026-06,,2026-08-19,Hira Shah,Website Development,LinkedIn,Qualified,,,450000,25,112500,,0,0
+DL-0040,2026-04-11,2026-04,2026-05-15,,Hira Shah,ERP Implementation,Website,Lost,Qualified,Price too high,1920000,0,0,34,1,0
+DL-0041,2026-03-30,2026-03,2026-05-29,,Usman Tariq,Mobile App,Website,Won,,,735000,100,735000,60,1,1
+DL-0042,2026-05-04,2026-05,2026-06-28,,Usman Tariq,ERP Implementation,LinkedIn,Lost,Negotiation,Price too high,1385000,0,0,55,1,0
+DL-0043,2026-03-04,2026-03,2026-05-01,,Hira Shah,Cloud Migration,Website,Won,,,1155000,100,1155000,58,1,1
+DL-0044,2026-05-10,2026-05,,2026-07-08,Bilal Ahmed,Mobile App,Referral,Negotiation,,,1190000,75,892500,,0,0
+DL-0045,2026-06-09,2026-06,,2026-08-02,Daniyal Raza,ERP Implementation,LinkedIn,Qualified,,,955000,25,238750,,0,0
+DL-0046,2026-04-14,2026-04,2026-06-11,,Usman Tariq,Mobile App,Website,Won,,,740000,100,740000,58,1,1
+DL-0047,2026-05-07,2026-05,2026-06-30,,Ayesha Khan,Digital Marketing,Cold Outreach,Lost,Negotiation,Price too high,290000,0,0,54,1,0
+DL-0048,2026-05-23,2026-05,,2026-07-23,Sana Malik,ERP Implementation,LinkedIn,Proposal,,,1255000,50,627500,,0,0
+DL-0049,2026-04-11,2026-04,2026-06-15,,Ayesha Khan,Website Development,Website,Won,,,535000,100,535000,65,1,1
+DL-0050,2026-04-11,2026-04,2026-06-10,,Sana Malik,Cloud Migration,Cold Outreach,Lost,Negotiation,Chose competitor,840000,0,0,60,1,0
+DL-0051,2026-04-24,2026-04,2026-06-13,,Ayesha Khan,Website Development,Website,Won,,,290000,100,290000,50,1,1
+DL-0052,2026-05-18,2026-05,2026-06-14,,Bilal Ahmed,Cloud Migration,LinkedIn,Lost,Qualified,Budget frozen,870000,0,0,27,1,0
+DL-0053,2026-06-15,2026-06,,2026-08-25,Hira Shah,Mobile App,Referral,Qualified,,,1050000,25,262500,,0,0
+DL-0054,2026-05-16,2026-05,,2026-07-17,Usman Tariq,Website Development,Cold Outreach,Proposal,,,525000,50,262500,,0,0
+DL-0055,2026-03-02,2026-03,2026-05-04,,Sana Malik,Website Development,Referral,Won,,,600000,100,600000,63,1,1
+DL-0056,2026-02-01,2026-02,2026-04-05,,Usman Tariq,Mobile App,Website,Lost,Negotiation,Timing — not now,985000,0,0,63,1,0
+DL-0057,2026-02-23,2026-02,2026-05-01,,Sana Malik,ERP Implementation,Website,Won,,,2165000,100,2165000,67,1,1
+DL-0058,2026-06-05,2026-06,2026-06-29,,Usman Tariq,Mobile App,Cold Outreach,Lost,Qualified,Timing — not now,900000,0,0,24,1,0
+DL-0059,2026-04-09,2026-04,2026-05-05,,Bilal Ahmed,Mobile App,LinkedIn,Lost,Qualified,Chose competitor,800000,0,0,26,1,0
+DL-0060,2026-03-30,2026-03,2026-04-09,,Bilal Ahmed,ERP Implementation,Website,Lost,Lead,Timing — not now,1635000,0,0,10,1,0
+DL-0061,2026-06-27,2026-06,,2026-08-28,Usman Tariq,ERP Implementation,LinkedIn,Lead,,,1470000,10,147000,,0,0
+DL-0062,2026-06-29,2026-06,,2026-08-16,Bilal Ahmed,Cloud Migration,Website,Lead,,,630000,10,63000,,0,0
+DL-0063,2026-02-04,2026-02,2026-03-17,,Bilal Ahmed,Digital Marketing,Referral,Lost,Proposal,Price too high,115000,0,0,41,1,0
+DL-0064,2026-06-11,2026-06,2026-06-25,,Ayesha Khan,Cloud Migration,Website,Lost,Lead,Chose competitor,1355000,0,0,14,1,0
+DL-0065,2026-03-28,2026-03,2026-05-31,,Bilal Ahmed,Cloud Migration,Referral,Lost,Negotiation,Chose competitor,1295000,0,0,64,1,0
+DL-0066,2026-06-05,2026-06,,2026-07-31,Daniyal Raza,Website Development,Website,Qualified,,,205000,25,51250,,0,0
+DL-0067,2026-05-24,2026-05,2026-06-24,,Ayesha Khan,Website Development,Referral,Lost,Qualified,Budget frozen,410000,0,0,31,1,0
+DL-0068,2026-03-09,2026-03,2026-05-12,,Sana Malik,Mobile App,LinkedIn,Won,,,535000,100,535000,64,1,1
+DL-0069,2026-05-30,2026-05,,2026-07-27,Bilal Ahmed,Mobile App,Referral,Proposal,,,695000,50,347500,,0,0
+DL-0070,2026-04-05,2026-04,2026-05-26,,Usman Tariq,Mobile App,LinkedIn,Lost,Negotiation,Price too high,630000,0,0,51,1,0
+DL-0071,2026-02-23,2026-02,2026-04-24,,Ayesha Khan,Digital Marketing,Referral,Lost,Negotiation,Timing — not now,170000,0,0,60,1,0
+DL-0072,2026-03-26,2026-03,2026-05-25,,Bilal Ahmed,Digital Marketing,Website,Lost,Negotiation,Price too high,135000,0,0,60,1,0
+DL-0073,2026-06-04,2026-06,,2026-08-05,Hira Shah,Mobile App,LinkedIn,Qualified,,,515000,25,128750,,0,0
+DL-0074,2026-03-25,2026-03,2026-05-21,,Bilal Ahmed,Website Development,Referral,Won,,,220000,100,220000,57,1,1
+DL-0075,2026-03-23,2026-03,2026-05-25,,Ayesha Khan,Digital Marketing,Website,Lost,Negotiation,Chose competitor,315000,0,0,63,1,0
+DL-0076,2026-04-04,2026-04,2026-04-28,,Bilal Ahmed,ERP Implementation,Referral,Lost,Qualified,No decision — went quiet,2150000,0,0,24,1,0
+DL-0077,2026-04-06,2026-04,2026-06-09,,Bilal Ahmed,Digital Marketing,Referral,Won,,,245000,100,245000,64,1,1
+DL-0078,2026-06-08,2026-06,,2026-08-02,Sana Malik,ERP Implementation,Website,Proposal,,,1165000,50,582500,,0,0
+DL-0079,2026-04-12,2026-04,2026-05-19,,Hira Shah,Digital Marketing,LinkedIn,Lost,Proposal,Requirements changed,165000,0,0,37,1,0
+DL-0080,2026-05-17,2026-05,,2026-07-06,Sana Malik,Cloud Migration,Referral,Negotiation,,,780000,75,585000,,0,0
+DL-0081,2026-04-11,2026-04,2026-05-26,,Ayesha Khan,Digital Marketing,LinkedIn,Lost,Proposal,Timing — not now,280000,0,0,45,1,0
+DL-0082,2026-03-14,2026-03,2026-03-24,,Usman Tariq,ERP Implementation,Website,Lost,Lead,Budget frozen,2050000,0,0,10,1,0
+DL-0083,2026-03-23,2026-03,2026-05-12,,Usman Tariq,ERP Implementation,Referral,Lost,Proposal,Budget frozen,2135000,0,0,50,1,0
+DL-0084,2026-05-15,2026-05,,2026-07-09,Daniyal Raza,Website Development,Website,Negotiation,,,595000,75,446250,,0,0
+DL-0085,2026-05-17,2026-05,,2026-07-18,Ayesha Khan,Website Development,LinkedIn,Negotiation,,,175000,75,131250,,0,0
+DL-0086,2026-02-27,2026-02,2026-04-06,,Bilal Ahmed,Cloud Migration,Referral,Lost,Proposal,Budget frozen,695000,0,0,38,1,0
+DL-0087,2026-04-20,2026-04,2026-04-27,,Bilal Ahmed,Website Development,Referral,Lost,Lead,No decision — went quiet,595000,0,0,7,1,0
+DL-0088,2026-02-14,2026-02,2026-04-07,,Hira Shah,Digital Marketing,Website,Lost,Negotiation,Price too high,280000,0,0,52,1,0
+DL-0089,2026-04-23,2026-04,2026-06-22,,Ayesha Khan,Website Development,Website,Won,,,465000,100,465000,60,1,1
+DL-0090,2026-03-20,2026-03,2026-05-18,,Bilal Ahmed,Cloud Migration,Website,Won,,,605000,100,605000,59,1,1
+DL-0091,2026-02-20,2026-02,2026-04-27,,Bilal Ahmed,Website Development,Cold Outreach,Won,,,190000,100,190000,66,1,1
+DL-0092,2026-05-15,2026-05,2026-06-30,,Daniyal Raza,Cloud Migration,LinkedIn,Won,,,780000,100,780000,46,1,1
+DL-0093,2026-04-26,2026-04,2026-06-02,,Bilal Ahmed,Website Development,Cold Outreach,Lost,Proposal,No decision — went quiet,595000,0,0,37,1,0
+DL-0094,2026-05-25,2026-05,,2026-07-26,Sana Malik,Mobile App,LinkedIn,Proposal,,,1020000,50,510000,,0,0
+DL-0095,2026-05-22,2026-05,,2026-07-19,Bilal Ahmed,Cloud Migration,Referral,Negotiation,,,1255000,75,941250,,0,0
+DL-0096,2026-04-09,2026-04,2026-06-13,,Bilal Ahmed,Mobile App,Cold Outreach,Lost,Negotiation,Timing — not now,1185000,0,0,65,1,0
+DL-0097,2026-02-28,2026-02,2026-04-28,,Sana Malik,Digital Marketing,Cold Outreach,Lost,Negotiation,Chose competitor,150000,0,0,59,1,0
+DL-0098,2026-03-02,2026-03,2026-04-29,,Ayesha Khan,Cloud Migration,Website,Won,,,1335000,100,1335000,58,1,1
+DL-0099,2026-06-02,2026-06,,2026-07-25,Daniyal Raza,Mobile App,Cold Outreach,Proposal,,,420000,50,210000,,0,0
+DL-0100,2026-02-18,2026-02,2026-04-05,,Bilal Ahmed,ERP Implementation,LinkedIn,Lost,Proposal,Timing — not now,915000,0,0,46,1,0
+DL-0101,2026-03-04,2026-03,2026-05-12,,Sana Malik,Website Development,Cold Outreach,Lost,Negotiation,Price too high,450000,0,0,69,1,0
+DL-0102,2026-04-27,2026-04,2026-06-29,,Bilal Ahmed,Digital Marketing,Referral,Won,,,275000,100,275000,63,1,1
+DL-0103,2026-06-08,2026-06,,2026-08-03,Daniyal Raza,Cloud Migration,Website,Proposal,,,1310000,50,655000,,0,0
+DL-0104,2026-04-30,2026-04,2026-05-23,,Ayesha Khan,Website Development,Referral,Lost,Qualified,Price too high,485000,0,0,23,1,0
+DL-0105,2026-03-24,2026-03,2026-05-24,,Hira Shah,Cloud Migration,LinkedIn,Lost,Negotiation,Timing — not now,690000,0,0,61,1,0
+DL-0106,2026-04-17,2026-04,2026-05-11,,Bilal Ahmed,Cloud Migration,LinkedIn,Lost,Qualified,No decision — went quiet,825000,0,0,24,1,0
+DL-0107,2026-05-19,2026-05,,2026-07-19,Bilal Ahmed,Mobile App,Website,Negotiation,,,1150000,75,862500,,0,0
+DL-0108,2026-05-07,2026-05,,2026-07-03,Usman Tariq,Mobile App,Referral,Negotiation,,,940000,75,705000,,0,0
+DL-0109,2026-04-12,2026-04,2026-05-31,,Usman Tariq,Digital Marketing,Website,Won,,,275000,100,275000,49,1,1
+DL-0110,2026-03-26,2026-03,2026-05-09,,Bilal Ahmed,ERP Implementation,Referral,Lost,Proposal,Chose competitor,2275000,0,0,44,1,0
+DL-0111,2026-04-17,2026-04,2026-06-13,,Bilal Ahmed,ERP Implementation,Cold Outreach,Lost,Negotiation,Requirements changed,2225000,0,0,57,1,0
+DL-0112,2026-04-21,2026-04,2026-06-23,,Bilal Ahmed,Mobile App,LinkedIn,Lost,Negotiation,Price too high,825000,0,0,63,1,0
+DL-0113,2026-03-29,2026-03,2026-05-30,,Ayesha Khan,Website Development,Referral,Won,,,290000,100,290000,62,1,1
+DL-0114,2026-05-26,2026-05,2026-06-15,,Bilal Ahmed,Website Development,Referral,Lost,Qualified,Chose competitor,350000,0,0,20,1,0
+DL-0115,2026-04-26,2026-04,2026-06-22,,Sana Malik,Website Development,Referral,Won,,,160000,100,160000,57,1,1
+DL-0116,2026-02-06,2026-02,2026-04-02,,Bilal Ahmed,ERP Implementation,LinkedIn,Lost,Negotiation,Requirements changed,1735000,0,0,55,1,0
+DL-0117,2026-05-18,2026-05,2026-06-18,,Bilal Ahmed,Digital Marketing,LinkedIn,Lost,Qualified,Requirements changed,120000,0,0,31,1,0
+DL-0118,2026-06-16,2026-06,,2026-08-17,Sana Malik,Website Development,Cold Outreach,Qualified,,,200000,25,50000,,0,0
+DL-0119,2026-05-17,2026-05,,2026-07-15,Sana Malik,Website Development,Website,Negotiation,,,160000,75,120000,,0,0
+DL-0120,2026-03-04,2026-03,2026-05-11,,Usman Tariq,Website Development,Website,Won,,,200000,100,200000,68,1,1
+DL-0121,2026-05-24,2026-05,2026-05-31,,Bilal Ahmed,Digital Marketing,Website,Lost,Lead,Requirements changed,140000,0,0,7,1,0
+DL-0122,2026-01-17,2026-01,2026-03-14,,Ayesha Khan,Digital Marketing,LinkedIn,Lost,Negotiation,Price too high,305000,0,0,56,1,0
+DL-0123,2026-03-06,2026-03,2026-04-09,,Sana Malik,Website Development,Website,Lost,Proposal,Price too high,510000,0,0,34,1,0
+DL-0124,2026-06-06,2026-06,,2026-08-01,Bilal Ahmed,Mobile App,Website,Qualified,,,635000,25,158750,,0,0
+DL-0125,2026-01-23,2026-01,2026-03-06,,Daniyal Raza,Cloud Migration,Website,Lost,Proposal,Timing — not now,970000,0,0,42,1,0
+DL-0126,2026-03-30,2026-03,2026-05-13,,Bilal Ahmed,Cloud Migration,LinkedIn,Lost,Proposal,Timing — not now,805000,0,0,44,1,0
+DL-0127,2026-04-25,2026-04,2026-06-16,,Daniyal Raza,Website Development,LinkedIn,Won,,,360000,100,360000,52,1,1
+DL-0128,2026-03-05,2026-03,2026-04-29,,Sana Malik,Mobile App,Website,Won,,,475000,100,475000,55,1,1
+DL-0129,2026-05-20,2026-05,,2026-07-09,Sana Malik,Cloud Migration,LinkedIn,Negotiation,,,1500000,75,1125000,,0,0
+DL-0130,2026-03-24,2026-03,2026-05-20,,Bilal Ahmed,Digital Marketing,Website,Won,,,195000,100,195000,57,1,1
+DL-0131,2026-05-30,2026-05,,2026-08-03,Ayesha Khan,Mobile App,LinkedIn,Proposal,,,460000,50,230000,,0,0
+DL-0132,2026-05-15,2026-05,2026-06-01,,Ayesha Khan,Mobile App,Referral,Lost,Qualified,No decision — went quiet,910000,0,0,17,1,0
+DL-0133,2026-04-25,2026-04,2026-05-29,,Usman Tariq,Website Development,Cold Outreach,Lost,Proposal,Price too high,350000,0,0,34,1,0
+DL-0134,2026-05-18,2026-05,,2026-07-22,Sana Malik,Website Development,LinkedIn,Proposal,,,155000,50,77500,,0,0
+DL-0135,2026-06-10,2026-06,,2026-08-20,Bilal Ahmed,ERP Implementation,Website,Qualified,,,1820000,25,455000,,0,0
+DL-0136,2026-01-21,2026-01,2026-02-15,,Usman Tariq,Mobile App,Website,Lost,Qualified,Timing — not now,1070000,0,0,25,1,0
+DL-0137,2026-04-01,2026-04,2026-04-27,,Usman Tariq,Website Development,Cold Outreach,Lost,Qualified,Requirements changed,340000,0,0,26,1,0
+DL-0138,2026-03-24,2026-03,2026-04-03,,Sana Malik,Cloud Migration,Website,Lost,Lead,No decision — went quiet,580000,0,0,10,1,0
+DL-0139,2026-03-30,2026-03,2026-05-19,,Usman Tariq,Mobile App,Website,Lost,Negotiation,Timing — not now,470000,0,0,50,1,0
+DL-0140,2026-04-10,2026-04,2026-05-16,,Bilal Ahmed,Website Development,LinkedIn,Lost,Proposal,Budget frozen,345000,0,0,36,1,0
+DL-0141,2026-05-04,2026-05,2026-05-22,,Sana Malik,Website Development,LinkedIn,Lost,Qualified,No decision — went quiet,210000,0,0,18,1,0
+DL-0142,2026-03-16,2026-03,2026-05-10,,Daniyal Raza,Digital Marketing,Website,Lost,Negotiation,Price too high,235000,0,0,55,1,0
+DL-0143,2026-02-02,2026-02,2026-04-17,,Daniyal Raza,Cloud Migration,Website,Won,,,1400000,100,1400000,74,1,1
+DL-0144,2026-05-22,2026-05,,2026-07-13,Ayesha Khan,ERP Implementation,Website,Negotiation,,,2175000,75,1631250,,0,0
+DL-0145,2026-05-31,2026-05,2026-06-23,,Sana Malik,ERP Implementation,LinkedIn,Lost,Qualified,Timing — not now,1120000,0,0,23,1,0
+DL-0146,2026-04-05,2026-04,2026-06-04,,Ayesha Khan,Cloud Migration,Referral,Won,,,585000,100,585000,60,1,1
+DL-0147,2026-03-08,2026-03,2026-05-09,,Sana Malik,Mobile App,Referral,Won,,,825000,100,825000,62,1,1
+DL-0148,2026-04-29,2026-04,2026-05-21,,Sana Malik,Digital Marketing,LinkedIn,Lost,Qualified,Timing — not now,290000,0,0,22,1,0
+DL-0149,2026-04-11,2026-04,2026-06-14,,Sana Malik,Website Development,Referral,Won,,,395000,100,395000,64,1,1
+DL-0150,2026-03-13,2026-03,2026-05-08,,Daniyal Raza,ERP Implementation,Cold Outreach,Won,,,1295000,100,1295000,56,1,1
+DL-0151,2026-05-05,2026-05,2026-06-29,,Daniyal Raza,ERP Implementation,Referral,Lost,Negotiation,Timing — not now,925000,0,0,55,1,0
+DL-0152,2026-06-03,2026-06,,2026-07-27,Ayesha Khan,Website Development,Website,Proposal,,,245000,50,122500,,0,0
+DL-0153,2026-05-09,2026-05,,2026-07-06,Usman Tariq,Cloud Migration,Website,Negotiation,,,785000,75,588750,,0,0
+DL-0154,2026-05-02,2026-05,2026-05-12,,Ayesha Khan,Mobile App,LinkedIn,Lost,Lead,No decision — went quiet,495000,0,0,10,1,0
+DL-0155,2026-03-18,2026-03,2026-04-24,,Ayesha Khan,Website Development,LinkedIn,Lost,Proposal,Requirements changed,355000,0,0,37,1,0
+DL-0156,2026-04-02,2026-04,2026-05-31,,Bilal Ahmed,Digital Marketing,Website,Won,,,350000,100,350000,59,1,1

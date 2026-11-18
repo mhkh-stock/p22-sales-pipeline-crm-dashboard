@@ -1,0 +1,7 @@
+stage,deals,share_of_deals,pipeline_value,weighted_value
+Lead,2,1.28,2100000,210000
+Qualified,9,5.77,6110000,1527500
+Proposal,18,11.54,12330000,6165000
+Negotiation,12,7.69,11385000,8538750
+Won,40,25.64,26135000,26135000
+Lost,75,48.08,59115000,0
